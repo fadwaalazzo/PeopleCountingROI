@@ -10,7 +10,7 @@ Counting people in region of interest
 - [Multi-scale convolutional neural networks for crowd counting](https://arxiv.org/pdf/1702.02359.pdf)
 - [Single image crowd counting via multi-column covolutional neural network](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf)
 - [CrowdNet: A deep covolutional network for dense crowded counting](https://arxiv.org/abs/1608.06197.pdf)
-- [Cross-Scene crowd counting via deep convolutional neural networks(http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Cross-Scene_Crowd_Counting_2015_CVPR_paper.pdf)
+- [Cross-Scene crowd counting via deep convolutional neural networks](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Cross-Scene_Crowd_Counting_2015_CVPR_paper.pdf)
 
 ## Dataset
  - [UCF CC 50](http://crcv.ucf.edu/data/crowd_counting.php)
